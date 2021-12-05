@@ -19,5 +19,4 @@ Top 5 driver variables/predictors that affect the default rate the most :
 
 ## Contributions:
 This project is done individually. 
-
-### Project owner name : Pooja Ravi Shankar
+Project owner name is Pooja Ravi Shankar.
