@@ -13,11 +13,8 @@ The business objective is to identify the driver variables which are strong indi
  
 ## Conclusions
 Top 5 driver variables/predictors that affect the default rate the most :
-• Employee title (emp_title)
-• Sub grade (sub_grade)
-• Grade (grade)
-• Interest rate (Categorized into High/medium/low) (int_rate_c)
-• Home ownership (home_ownership)
+1.Employee title (emp_title) 2. Sub grade (sub_grade) 3. Grade (grade)4. Interest rate (Categorized into High/medium/low) (int_rate_c)
+5. Home ownership (home_ownership)
 
 
 
