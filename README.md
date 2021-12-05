@@ -17,4 +17,6 @@ Top 5 driver variables/predictors that affect the default rate the most :
 5. Home ownership (home_ownership)
 
 
-
+## Contributions:
+This project is done individually. 
+Project owner name : Pooja Ravi Shankar
